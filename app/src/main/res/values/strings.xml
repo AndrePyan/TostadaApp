@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">TostadaApp</string>
+    <string name="mantequilla">MANTEQUILLA</string>
+    <string name="mermelada">MERMELADA</string>
+    <string name="miel">MIEL</string>
+    <string name="none">none</string>
+</resources>
